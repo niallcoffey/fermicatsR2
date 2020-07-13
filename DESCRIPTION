@@ -1,0 +1,22 @@
+Package: fermicatsR2
+Title: Fermi Large Area Telescope Catalogs
+Version: 2.0
+Authors@R: c(
+    person(given = "Niall",
+           family = "Coffey",
+           role = c("aut", "cre"),
+           email = "niallcoffey@uchicago.edu"),
+    person(given = "Pablo",
+           family = "Saz Parkinson",
+           role = "aut",
+           email = "sazpark2@gmail.com"))
+Description: July 2020 update to fermicatsR. Data from various catalogs of 
+    astrophysical gamma-ray sources detected by NASA's Large Area Telescope (The
+    Astrophysical Journal, 697, 1071, 2009 June 1), on board the Fermi gamma-ray 
+    satellite. More information on Fermi and its data products is available from 
+    the Fermi Science Support Center (http://fermi.gsfc.nasa.gov/ssc/).
+License: CC0
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.0

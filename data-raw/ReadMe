@@ -1,0 +1,40 @@
+================================================================================
+Title: The Fourth Catalog of Active Galactic Nuclei Detected by the 
+       Fermi Large Area Telescope 
+Authors: Ajello M., Angioni R., Axelsson M., Ballet J., Barbiellini G., 
+    Bastieri D., Gonzalez J.B., Bellazzini R., Bissaldi E., Bloom E.D., 
+    Bonino R., Bottacini E., Bruel P., Buson S., Cafardo F., Cameron R.A., 
+    Cavazzuti E., Chen S., Cheung C.C., Ciprini S., Costantin D., Cutini S., 
+    D'Ammando F., de la Torre Luque P., de Menezes R., de Palma F., Desai A., 
+    Di Lalla N., Di Venere L., Dominguez A., Dirirsa F.F., Ferrara E.C., 
+    Finke J., Franckowiak A., Fukazawa Y., Funk S., Fusco P., Gargano F., 
+    Garrappa S., Gasparrini D., Giglietto N., Giordano F., Giroletti M., 
+    Green D., Grenier I.A., Guiriec S., Harita S., Hays E., Horan D., 
+    Itoh R., Johannesson G., Kovacevic M., Krauss F., Kreter M., Kuss M., 
+    Larsson S., Leto C., Li J., Liodakis I., Longo F., Loparco F., Lott B.,
+    Lovellette M.N., Lubrano P., Madejski G.M., Maldera S., Manfreda A., 
+    Marti-Devesa G., Massaro F., Mazziotta M.N., I.Mereu , Meyer M.,
+    Migliori G., Mirabal N., Mizuno T., Monzani M.E., Morselli A., 
+    Moskalenko I.V., Negro M., Nemmen R., Nuss E., Ojha L.S., Ojha R., 
+    Omodei N., Orienti M., Orlando E., Ormes J.F., Paliya V.S., Pei Z., 
+    Pena-Herazo H., Persic M., Pesce-Rollins M., Petrov L., Piron F., Poon H.,
+    Principe G., Raino S., Rando R., Rani B., Razzano M., Razzaque S., 
+    Reimer A., Reimer O., Schinzel F.K., Serini D., Sgr`o C., Siskind E.J., 
+    Spandre G., Spinelli P., Suson D.J., Tachibana Y., Thompson D.J., 
+    Torres D.F., Torresi E., Troja E., Valverde J., van Zyl P., Yassine M.
+================================================================================
+Description of contents: This tar.gz archive file contains two 4LAC fits 
+    tables, one for high Galactic latitude sources (|b|>10 deg) and one for
+    low Galactic latitudes:
+    
+    MD5 (table_4LAC_h.fits, |b|>10deg) = 08eb2c1ac89d76508dab9b4ff68a2569
+    MD5 (table_4LAC_l.fits, |b|<10deg) = dc52c3f83fe5ad76d3c60b16f5cb0d2d
+
+    The columns in these FITS tables are described in Table 3 of the accepted
+    manuscript. 
+    
+System requirements: These are FITS binary tables (HDU=1). 
+
+Additional comments: 
+
+================================================================================
